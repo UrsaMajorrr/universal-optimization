@@ -1,5 +1,5 @@
-from src.algorithms.line_search import LineSearch
-from src.algorithms.conjugate_gradient import ConjugateGradient
+from oaas.algorithms.line_search import LineSearch
+from oaas.algorithms.conjugate_gradient import ConjugateGradient
 import jax.numpy as jnp
 from jax import grad, hessian
 
