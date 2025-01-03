@@ -9,7 +9,7 @@ Universal Optimization Documentation
 Welcome to your one-stop-shop for all things optimization. Currently the API has line search and 
 conjugate gradient methods available.
 
-Check out the :doc:`line_search` for more information
+Check out the :doc:`api` for more information
 
 .. toctree::
    :maxdepth: 2

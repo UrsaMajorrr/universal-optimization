@@ -4,7 +4,7 @@ import sys
 # -- Path setup --------------------------------------------------------------
 
 # Add the project directory to sys.path to allow Sphinx to locate the modules
-sys.path.insert(0, os.path.abspath('../../..'))
+sys.path.insert(0, os.path.abspath('../../'))
 
 # -- Project information -----------------------------------------------------
 
