@@ -2,8 +2,10 @@ Line Search
 ===========
 
 
-.. autoclass:: oaas.src.algorithms.line_search.LineSearch
+.. automodule:: oaas.algorithms
+
+.. currentmodule:: oaas.algorithms
+
+.. autoclass:: LineSearch
     :members:
-    :undoc-members:
-    :special-members: __init__
-    :show-inheritance:
+
