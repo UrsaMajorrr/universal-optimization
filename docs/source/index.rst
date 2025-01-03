@@ -12,7 +12,9 @@ documentation for details.
 
 Check out the :doc:`api` section for further information
 
-## API Reference:
+API Reference:
+--------------
+
 .. toctree::
 
    api
