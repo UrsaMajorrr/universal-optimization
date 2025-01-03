@@ -12,8 +12,8 @@ documentation for details.
 
 Check out the :doc:`api` section for further information
 
-
+## API Reference:
 .. toctree::
-   .. caption::API
+
    api
 
