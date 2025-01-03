@@ -3,14 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-universal-optimization documentation
+Universal Optimization Documentation
 ====================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Welcome to your one-stop-shop for all things optimization. Currently the API has line search and 
+conjugate gradient methods available.
 
-Check out the :doc:`api` section for further information
+Check out the :doc:`api` for more information
 
 .. toctree::
    :maxdepth: 2
