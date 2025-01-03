@@ -14,6 +14,6 @@ Check out the :doc:`api` section for further information
 
 
 .. toctree::
-   
+   .. caption::API
    api
 
