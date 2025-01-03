@@ -1,4 +1,2 @@
-.. autosummary::
-    :toctree: generated
-
-    universal-optimization
+Welcome to the API!
+=====================
