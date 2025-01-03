@@ -17,6 +17,9 @@ from .utils.step_length import StepLength
 
 
 class LineSearch:
+    r"""
+    A collection of line search algorithms
+    """
 
     def __init__(self, 
                  f: Callable, 

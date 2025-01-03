@@ -13,9 +13,10 @@ Check out the :doc:`api` for more information
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: API Reference:
 
-   api
+   line_search
+   conjugate_gradient
 
 .. toctree::
    :maxdepth: 3
