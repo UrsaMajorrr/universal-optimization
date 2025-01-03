@@ -12,12 +12,14 @@ documentation for details.
 
 Check out the :doc:`api` section for further information
 
-API Reference:
---------------
-
 .. toctree::
    :maxdepth: 2
-   :caption: Contents
+   :caption: Contents:
 
    api
 
+.. toctree::
+   :maxdepth: 3
+   :caption: Examples:
+
+   basic_usage
